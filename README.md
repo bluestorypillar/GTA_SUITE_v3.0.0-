@@ -39,6 +39,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/menu.png" alt="Main Menu" width="80%">
+</p>
+
+<p align="center">
   <i>Main control panel with real‑time adjustments</i>
 </p>
 
